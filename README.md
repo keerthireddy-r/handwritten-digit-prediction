@@ -1,6 +1,6 @@
 # 🧮 MNIST Handwritten Digit Recognition using KNN
 
-This project recognizes handwritten digits (0–9) from the MNIST dataset using a **K-Nearest Neighbors (KNN)** machine learning algorithm — *no deep learning used*.
+This project recognizes handwritten digits (0–9) from the MNIST dataset using a **K-Nearest Neighbors (KNN)** machine learning algorithm 
 
 ---
 
